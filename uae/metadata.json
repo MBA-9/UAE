@@ -1,0 +1,45 @@
+{
+  "emirates": [
+    {
+      "id": "abu_dhabi",
+      "name_ar": "أبو ظبي",
+      "name_en": "Abu Dhabi",
+      "regions": [
+        {
+          "id": "abu_dhabi_city",
+          "name_ar": "أبو ظبي",
+          "name_en": "Abu Dhabi City"
+        },
+        {
+          "id": "al_ain",
+          "name_ar": "العين",
+          "name_en": "Al Ain"
+        }
+      ]
+    },
+    {
+      "id": "dubai",
+      "name_ar": "دبي",
+      "name_en": "Dubai",
+      "regions": [
+        {
+          "id": "dubai_city",
+          "name_ar": "دبي",
+          "name_en": "Dubai City"
+        }
+      ]
+    },
+    {
+      "id": "sharjah",
+      "name_ar": "الشارقة",
+      "name_en": "Sharjah",
+      "regions": [
+        {
+          "id": "sharjah_city",
+          "name_ar": "الشارقة",
+          "name_en": "Sharjah City"
+        }
+      ]
+    }
+  ]
+}
